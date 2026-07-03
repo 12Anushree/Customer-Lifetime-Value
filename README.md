@@ -124,6 +124,15 @@ Source	Avg CLV	CLV:CAC
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
 
+## 🔬 The Models
 
-<a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+```mermaid
+graph LR
+    A[Purchase History] --> B[BG/NBD Model]
+    A --> C[Gamma-Gamma Model]
+    B -->|Future Transactions| D[Combined CLV]
+    C -->|Future Value| D
+    D --> E[Customer Segmentation]
+    style D fill:#FFD700,color:#000
+    style E fill:#00D9FF,color:#fff
+
