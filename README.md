@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=18,22,21&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,2,21&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=💎+Predict+Customer+Lifetime+Value;📊+BG%2FNBD+%2B+Gamma-Gamma+Models;💰+Optimize+Acquisition+Spend;🎯+Segment+by+Value+Tiers"/>
@@ -135,5 +135,60 @@ graph LR
     D --> E[Customer Segmentation]
     style D fill:#FFD700,color:#000
     style E fill:#00D9FF,color:#fff
+```
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"><div align="center">
 
 
+## 📬 Let's Connect Professionally
+
+<div align="center">
+
+<br/>
+
+> **"Great things in business are never done by one person. They're done by a team of people."** — Steve Jobs
+
+<br/>
+
+### 🌟 I'm always excited to discuss new opportunities and collaborations
+
+<br/>
+
+<table align="center" border="0">
+<tr>
+<td align="center" style="padding: 20px;">
+  <a href="(https://www.linkedin.com/in/anushree-saha-4bb3a4368/)e">
+    <img src="https://img.shields.io/badge/-CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="45"/>
+  </a>
+</td>
+<td align="center" style="padding: 20px;">
+  <a href="mailto:riyaggit58@gmail.com">
+    <img src="https://img.shields.io/badge/-SEND%20AN%20EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="45"/>
+  </a>
+</td>
+</tr>
+</table>
+
+<br/>
+
+### 🌐 Also Find Me On
+
+<p>
+  <a href="https://github.com/12Anushree">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28"/>
+</p>
+
+<br/>
+
+### ⚡ Response Time: **Usually within 24 hours**
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,2,21&height=100&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=50&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=12Anushree&label=Repo%20Views&color=00D9FF&style=for-the-badge)
+
+</div>
