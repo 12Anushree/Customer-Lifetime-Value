@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,2,21&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,22,21&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=💎+Predict+Customer+Lifetime+Value;📊+BG%2FNBD+%2B+Gamma-Gamma+Models;💰+Optimize+Acquisition+Spend;🎯+Segment+by+Value+Tiers"/>
@@ -185,7 +185,7 @@ graph LR
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,2,21&height=100&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=50&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,22,21&height=100&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=50&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
 
 <div align="center">
 
