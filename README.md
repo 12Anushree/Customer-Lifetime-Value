@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,12,21&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=00000&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65"/>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=00223e,5cdb95,05386b,379683&height=150&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65&v=1"/>
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&lines=💎+Predict+Customer+Lifetime+Value;📊+BG%2FNBD+%2B+Gamma-Gamma+Models;💰+Optimize+Acquisition+Spend;🎯+Segment+by+Value+Tiers"/>
@@ -182,11 +183,8 @@ graph LR
 ### ⚡ Response Time: **Usually within 24 hours**
 
 <div align="center">
-<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=8,12,21&height=100&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=00000&animation=twinkling&fontAlignY=35&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78"/>
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0f0c29,302b63,24243e,1a1a2e&height=100&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=e0e0e0&animation=twinkling&fontAlignY=35&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78&v=1"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=12Anushree&label=Repo%20Views&color=00D9FF&style=for-the-badge)
 
