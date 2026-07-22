@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:1e3a8a,40:0891b2,65:10b981,85:84cc16,100:facc15&height=250&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65&v=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,20:10b981,40:14b8a6,65:06b6d4,85:3b82f6,100:1e3a8a&height=250&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65&v=1"/>
 
 
 <a href="https://git.io/typing-svg">
@@ -184,7 +184,7 @@ graph LR
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,20:1e3a8a,40:0891b2,65:10b981,85:84cc16,100:facc15&height=250&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=e0e0e0&animation=twinkling&fontAlignY=35&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78&v=1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,20:10b981,40:14b8a6,65:06b6d4,85:3b82f6,100:1e3a8a&height=250&section=footer&text=⭐%20Star%20•%20🔱%20Fork%20•%20👀%20Watch&fontSize=28&fontColor=e0e0e0&animation=twinkling&fontAlignY=35&desc=Your%20support%20motivates%20me%20to%20create%20more!&descSize=16&descAlignY=78&v=1"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=12Anushree&label=Repo%20Views&color=00D9FF&style=for-the-badge)
 
