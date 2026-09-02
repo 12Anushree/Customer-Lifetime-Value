@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"> 
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22c55e,20:10b981,40:14b8a6,65:06b6d4,85:3b82f6,100:1e3a8a&height=250&section=header&text=Customer%20Lifetime%20Value&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Predict%20Your%20Most%20Valuable%20Customers&descSize=22&descAlignY=65&v=1"/>
 
